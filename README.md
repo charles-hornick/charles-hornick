@@ -1,6 +1,6 @@
 # Hey, I'm Charles 👋
 
-Java Software Engineer with 15+ years of hands-on experience turning complex, aging codebases into maintainable, high-performing applications — without the "let's rewrite everything" approach.
+Java Software Engineer with 15+ years of hands-on experience turning complex, aging codebases into maintainable, high-performing applications, without the "let's rewrite everything" approach.
 
 ## What I Do
 
@@ -15,7 +15,7 @@ I help companies tackle their Java technical debt through **smart refactoring**:
 ## Tech Stack
 
 ```
-Languages    → Java 8 / 17, SQL
+Languages    → Java 8 / 25, SQL
 Frameworks   → Spring Boot, JTE, HTMX
 Databases    → PostgreSQL
 Infra        → Docker, Kubernetes
@@ -33,7 +33,7 @@ Architecture → Clean Architecture, Modular Monoliths, Domain-Driven Design
 
 ## Beyond Code
 
-I care about **software craftsmanship**, not just shipping features. I believe the 9th principle of the Agile Manifesto — *continuous attention to technical excellence* — is the most underrated one.
+I care about **software craftsmanship**, not just shipping features. I believe the 9th principle of the Agile Manifesto – *continuous attention to technical excellence* – is the most underrated one.
 
 I also believe most microservices migrations are a mistake. Fight me.
 
